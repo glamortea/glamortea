@@ -1,6 +1,7 @@
 # 💫 About Me:
-╰(*°▽°*)╯ she/her • i like linux • i sometimes do stuff here aka. never <br>o(〃＾▽＾〃)o if you want to work together: glamortea[@gmail.com]<br>
 
+╰(*°▽°*)╯ she/her • i like linux • i sometimes do stuff here aka. never <br>o(〃＾▽＾〃)o if you want to work together: glamortea[@gmail.com]<br>
+🩵🩵🩵🩷🩷🩷🤍🤍🤍🩷🩷🩷🩵🩵🩵
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/glamortea) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glamor.tea) 
