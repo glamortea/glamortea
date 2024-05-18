@@ -20,4 +20,10 @@
 <img src="https://github.com/glamortea/glamortea/assets/84008915/cebf10fb-40a4-4df1-aec8-77a239fba7be" width="430" align=center>
 <h1>Here will be my repositories when I'll start making some major projects</h1>
 
+## Discord!!
+[![Discord Presence](https://lanyard.cnrad.dev/api/497408027914403840)](https://discord.com/users/497408027914403840)
+
+## Statistics
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glamortea&theme=rose-pine&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
 
