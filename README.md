@@ -14,7 +14,7 @@
  
 - <img src="https://github.com/glamortea/glamortea/assets/84008915/751acdd6-324c-4414-9fbe-bda128207459" width="16"> A girl from Poland
 - <img src="https://github.com/glamortea/glamortea/assets/84008915/178da3dc-8dbe-47a6-9245-cefe6cd0abc3" width="16" height="16"> Trying to learn programming
-- 🖥️ I like playin' games :333
+- 🖥️ I like the people in my phone :33
 - I'd like to learn <img src="https://github.com/glamortea/glamortea/assets/84008915/7874801e-245c-45c3-b620-7535392eb824" width="16" height="16"> Python and <img src="https://github.com/glamortea/glamortea/assets/84008915/cbd24330-a8ce-4718-a96e-a980708a2c24" width="16" height ="16"> C#, of course probably more (Javascript, Typescript, C++...) but for now these two!
 </br>
 
